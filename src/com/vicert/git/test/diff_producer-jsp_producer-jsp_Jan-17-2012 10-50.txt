@@ -1,2 +1,0 @@
-Identical files -> C:\teamsite\download\edhuap009\cache\default\main\blueshield\WORKAREA\shared_wa\templatedata\producer-jsp\two_column\datacapture.cfg *and* D:\W-BSC-ATGR2\producer\content\producer-jsp\two_column\datacapture.cfg
-Identical files -> C:\teamsite\download\edhuap009\cache\default\main\blueshield\WORKAREA\shared_wa\templatedata\producer-jsp\two_column\presentation\two_column.tpl *and* D:\W-BSC-ATGR2\producer\content\producer-jsp\two_column\presentation\two_column.tpl
