@@ -1,7 +1,0 @@
-﻿bsc
-common
-producer
-producerappcontent
-index.html
-uzas
-  
